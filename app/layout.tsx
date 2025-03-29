@@ -9,7 +9,7 @@ import { ToastProvider } from "@/context/toast-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Authentication System",
+  title: "Message Manager",
   description: "Secure authentication system with role-based access",
     generator: 'v0.dev'
 }
